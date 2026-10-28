@@ -1,7 +1,7 @@
 let students = [];
 let formMode = "Add";
 let selectedStudentID = -1;
-const baseURL = " https://studentinfoapi-c574.onrender.com/api/students";
+const baseURL = " https://studentinfoapi-frrp.onrender.com/api/students";
 
 const $tbody = $("#student-data");
 const $studentSearch = $("#student-search");
